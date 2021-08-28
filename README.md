@@ -1,1 +1,1 @@
-# stats202
+# STATS 202 Final Project - Forecasting Stock Prices
